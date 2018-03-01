@@ -1,0 +1,8 @@
+/* stylizes the body and canvas of the chat */
+body {
+    background-color: #FFFAED;
+}
+
+canvas {
+    border: solid black 3px;
+}
